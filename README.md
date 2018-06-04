@@ -1,4 +1,5 @@
-```javascript/*
+```javascript
+/*
 slice with strings...
 
 © 2018 Contributors.
@@ -23,4 +24,5 @@ with the rest of inputs converge on center -
         `1`, `3`,`4`,
         `2`
     ); // returns `5`
-*/```
+*/
+```
